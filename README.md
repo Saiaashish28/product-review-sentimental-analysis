@@ -1,2 +1,46 @@
-# product-review-sentimental-analysis
-Product Review Sentiment is a web application that classifies written product reviews as positive or negative. Built using Streamlit and trained on a balanced dataset, it uses a TF-IDF vectorizer and a logistic regression model to analyze sentiment in real time. 
+# 📝 Product Review Sentiment
+
+A web app that analyzes product reviews and classifies them as **Positive** or **Negative** using machine learning.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-Streamlit-red?logo=streamlit">
+  <img src="https://img.shields.io/badge/Model-Logistic%20Regression-blue">
+  <img src="https://img.shields.io/badge/NLP-TFIDF-orange">
+</p>
+
+---
+
+## 🔍 Features
+
+- 🔠 Predicts sentiment of product reviews as **Positive** or **Negative**
+- 📈 Displays confidence score for predictions
+- ✍️ Supports manual text input and `.txt` file upload
+- ✅ Clean and responsive user interface
+- 💾 Built with a lightweight logistic regression model and TF-IDF vectorizer
+
+---
+
+## 🚀 Live Demo
+
+> *Coming soon — deploy this on Streamlit Cloud for instant sharing!*
+
+---
+
+## 🧠 How It Works
+
+- Reviews are preprocessed and labeled (positive/negative).
+- A TF-IDF vectorizer converts text into feature vectors.
+- A logistic regression model classifies the review sentiment.
+- The trained model is saved using `joblib` and loaded in the Streamlit app.
+
+
+---
+
+## 📦 Installation
+
+1. **Clone the repo:**
+```bash
+git clone https://github.com/Saiaashish28/product-review-sentimental-analysis.git
+cd product-review-sentiment
+
+
