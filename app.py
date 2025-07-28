@@ -3,10 +3,10 @@ import joblib
 import os
 
 # --- Page Config ---
-st.set_page_config(page_title="Amazon Review Sentiment Analyzer", page_icon="🛍️", layout="centered")
+st.set_page_config(page_title="Product Review Sentiment Analyzer", page_icon="🛍️", layout="centered")
 
 # --- Title and Description ---
-st.title("🛍️ Amazon Review Sentiment Analyzer")
+st.title("🛍️ Product Review Sentiment Analyzer")
 st.markdown("Analyze product reviews to determine whether they're **Positive** or **Negative**.")
 
 st.divider()
