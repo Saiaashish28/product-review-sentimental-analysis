@@ -20,9 +20,9 @@ A web app that analyzes product reviews and classifies them as **Positive** or *
 
 ---
 
-## 🚀 Live Demo
+## 📸 Screenshots
 
-> *Coming soon — deploy this on Streamlit Cloud for instant sharing!*
+<img width="1047" height="714" alt="image" src="https://github.com/user-attachments/assets/24195e39-6adc-490a-9c86-768169e2b925" />
 
 ---
 
